@@ -20,3 +20,4 @@ dx /dt = αx − NNr
  ● In the Fig below the representation is soo beautiful and accurate as the neural network is able to replicate the data for exact time span of (0-3.5) with the original data .
  ● This shows the power of neural network backed with the differential equation . 
 ● The scatter plot goes flat after ~t=3.5 because we did not train the model for the further time 
+![Screenshot 2024-10-17 201304](https://github.com/user-attachments/assets/14db5c71-8d5a-45e7-a275-167dbf417222)
